@@ -30,11 +30,14 @@ jobs:
       - name: test
         run: npm test
 
-      - name: build
-        run: npm run build
+#      - name: build
+#        run: npm run build
+#
+#      - name: export
+#        run: npm run export
 
-      - name: export
-        run: npm run export
+      - name: generate
+        run: npm run generate
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
