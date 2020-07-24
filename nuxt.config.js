@@ -24,14 +24,13 @@ export default {
         content: process.env.npm_package_description || '',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/community-portal/favicon.ico' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
   srcDir: 'src/',
   generate: {
     fallback: true,
   },
   router: {
-    base: '/community-portal/',
     trailingSlash: true,
   },
   /*
