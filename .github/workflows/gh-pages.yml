@@ -24,6 +24,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
+      - name: set api key
+        run: echo API_KEY=${CMS_KEY} > .env
+
+      - name: set api posts endpoint
+        run: echo API_POSTS_ENDPOINT=${API_POSTS_ENDPOINT} >> .env
+
       - name: install
         run: npm ci
 
@@ -35,9 +41,6 @@ jobs:
 
       - name: export
         run: npm run export
-
-#      - name: generate
-#        run: npm run generate
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
