@@ -25,10 +25,10 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: set api key
-        run: echo API_KEY=${CMS_KEY} > .env
+        run: echo API_KEY=${{ secrets.CMS_KEY }} > .env
 
       - name: set api posts endpoint
-        run: echo API_POSTS_ENDPOINT=${API_POSTS_ENDPOINT} >> .env
+        run: echo API_POSTS_ENDPOINT=${{ secrets.API_POSTS_ENDPOINT }} >> .env
 
       - name: install
         run: npm ci
