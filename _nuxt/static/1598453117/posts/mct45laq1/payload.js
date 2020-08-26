@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/mct45laq1", (function(a){return {data:[{item:{id:"mct45laq1",createdAt:a,updatedAt:a,publishedAt:a,title:"部活一覧",body:"\u003Cp\u003Etest\u003Cbr\u003Etest\u003Cbr\u003Etest\u003Cbr\u003Etest\u003C\u002Fp\u003E",tags:[]}}],fetch:[],mutations:void 0}}("2020-08-26T14:43:40.922Z")));
