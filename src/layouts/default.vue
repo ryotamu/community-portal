@@ -18,4 +18,8 @@
   position: relative;
   font-family: 'Noto Sans JP', 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
+.header {
+  background-color: #f5ad57;
+  color: #fafafa;
+}
 </style>
