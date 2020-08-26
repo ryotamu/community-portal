@@ -1,4 +1,10 @@
+require('dotenv').config()
+const { API_KEY } = process.env;
+
 export default {
+  privateRuntimeConfig: {
+    apiKey: API_KEY,
+  },
   /*
    ** Nuxt rendering mode
    ** See https://nuxtjs.org/api/configuration-mode
@@ -24,7 +30,13 @@ export default {
         content: process.env.npm_package_description || '',
       },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: 'stylesheet',
+        href: 'https://use.fontawesome.com/releases/v5.6.1/css/all.css',
+      },
+    ],
   },
   srcDir: 'src/',
   generate: {
@@ -36,7 +48,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: ['@/assets/bootstrap-custom/scss/bootstrap.scss'],
   /*
    ** Plugins to load before mounting the App
    ** https://nuxtjs.org/guide/plugins
@@ -51,6 +63,7 @@ export default {
    ** Nuxt.js dev-modules
    */
   buildModules: [
+    '@nuxtjs/dotenv',
     '@nuxt/typescript-build',
     // Doc: https://github.com/nuxt-community/stylelint-module
     '@nuxtjs/stylelint-module',
@@ -59,8 +72,9 @@ export default {
    ** Nuxt.js modules
    */
   modules: [
+    'nuxt-webfontloader',
     // Doc: https://bootstrap-vue.js.org
-    'bootstrap-vue/nuxt',
+    ['bootstrap-vue/nuxt', { css: false }],
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
     '@nuxtjs/pwa',
@@ -73,6 +87,11 @@ export default {
     //   pageTracking: true
     // }],
   ],
+  webfontloader: {
+    google: {
+      families: ['Noto+Sans+JP'],
+    },
+  },
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
