@@ -1,9 +1,10 @@
 require('dotenv').config()
-const { API_KEY } = process.env;
+const { API_KEY, API_POSTS_ENDPOINT } = process.env;
 
 export default {
   privateRuntimeConfig: {
     apiKey: API_KEY,
+    postsEndpoint: API_POSTS_ENDPOINT,
   },
   /*
    ** Nuxt rendering mode
@@ -31,7 +32,7 @@ export default {
       },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/logo.png' },
       {
         rel: 'stylesheet',
         href: 'https://use.fontawesome.com/releases/v5.6.1/css/all.css',
