@@ -1,0 +1,10 @@
+$font-size-base:              .65rem !default;
+
+$card-spacer-y:                     .5rem !default;
+$card-spacer-x:                     .75rem !default;
+
+p {
+  font-size: 1rem;
+}
+
+@import '~bootstrap/scss/bootstrap';
