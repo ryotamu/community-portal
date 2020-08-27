@@ -10,7 +10,7 @@
               | {{ tag.name }}
         h4.post-sub-color.m-0.text-right
           i.far.fa-clock
-          |  {{ formatDate(item.updatedAt) }}
+          |  {{ formatDate(item.publishedAt) }}
 </template>
 
 <script lang="ts">
@@ -39,7 +39,6 @@ export default {
 </script>
 
 <style>
-
 .post-title {
   color: #5f5f5f;
 }

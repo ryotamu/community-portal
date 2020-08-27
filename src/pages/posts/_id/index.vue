@@ -3,9 +3,9 @@
     div.ml-3
       nuxt-link(:to="'/'")
         p 記事一覧 >
-    b-card.bg-white.mx-2.post-title
+    b-card.bg-white.mx-2.mb-4.post-title
       h2.font-weight-bold {{ item.title }}
-      p {{ formatDate(item.updatedAt) }}
+      p {{ formatDate(item.publishedAt) }}
       br
       p(
         v-html="item.body"
