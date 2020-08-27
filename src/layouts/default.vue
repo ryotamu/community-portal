@@ -1,13 +1,13 @@
 <template lang="pug">
   #wrapper
-    div.sticky-top.header.d-flex.align-items-center
+    div.sticky-top.header.d-flex.align-items-center.mb-3
       img.ml-2(
         src="~/static/logo.png"
         style="height:42px;"
       )
       h1.font-weight-bold.pl-2.pt-2
         | コミュニティ
-    nuxt
+    nuxt.mx-auto(style="max-width:860px")
 </template>
 
 <style lang="scss">
