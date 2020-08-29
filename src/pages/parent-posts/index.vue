@@ -11,7 +11,7 @@
               | {{ tag.name }}
         h4.post-sub-color.m-0.text-right
           i.far.fa-clock
-          |  {{ formatDate(item.publishedAt) }}
+          |  {{ formatDate(item.updatedAt) }}
 </template>
 
 <script lang="ts">

@@ -7,7 +7,7 @@
       h1.font-weight-bold {{ item.title }}
       p.post-sub-color
         i.far.fa-clock
-        |{{ formatDate(item.publishedAt) }}
+        |{{ formatDate(item.updatedAt) }}
       p ーーーーーーーー
       br
       p(
