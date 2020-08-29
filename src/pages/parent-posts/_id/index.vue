@@ -1,15 +1,21 @@
 <template lang="pug">
   div
     div.ml-3
-      nuxt-link(:to="'/'")
+      nuxt-link(:to="'/parent-posts/'")
         p 記事一覧 >
-    b-card.bg-white.mx-2.mb-4.post-title
-      h2.font-weight-bold {{ item.title }}
-      p {{ formatDate(item.publishedAt) }}
+    b-card.bg-white.mx-2.post-title
+      h1.font-weight-bold {{ item.title }}
+      p.post-sub-color
+        i.far.fa-clock
+        |{{ formatDate(item.publishedAt) }}
+      p ーーーーーーーー
       br
       p(
         v-html="item.body"
       )
+    div.ml-3
+      nuxt-link(:to="'/parent-posts/'")
+        p 記事一覧 >
 </template>
 
 <script lang="ts">
@@ -46,5 +52,9 @@ export default {
 <style>
 .post-title {
   color: #5f5f5f;
+}
+
+.post-sub-color {
+  color: #9a7b5c;
 }
 </style>

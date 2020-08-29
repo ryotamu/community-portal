@@ -7,7 +7,7 @@
       )
       h1.font-weight-bold.pl-2.pt-2
         | コミュニティ
-    nuxt.mx-auto(style="max-width:860px")
+    nuxt.mx-auto.pb-4(style="max-width:860px")
 </template>
 
 <style lang="scss">

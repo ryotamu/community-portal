@@ -2,8 +2,9 @@
   div
     div(v-for="item in items")
       b-card.m-2
-        nuxt-link(:to="'posts/' + item.id + '/'")
-          h2.post-title.font-weight-bold {{ item.title }}
+        nuxt-link(:to="'/parent-posts/' + item.id + '/'")
+          h2.post-title.font-weight-bold
+            | {{ item.title }}
         div.d-flex
           div(v-for="tag in item.tags")
             b-button.mr-1(variant="outline-secondary" disabled)
