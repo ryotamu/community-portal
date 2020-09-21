@@ -79,6 +79,7 @@ export default {
     ['bootstrap-vue/nuxt', { css: false }],
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    '@nuxtjs/gtm',
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt/content
     '@nuxt/content',
@@ -89,6 +90,11 @@ export default {
     //   pageTracking: true
     // }],
   ],
+  gtm: {
+    id: process.env.GTM_ID,
+    pageTracking: true,
+    pageViewEventName: 'nuxtRoute',
+  },
   webfontloader: {
     google: {
       families: ['Noto+Sans+JP'],
