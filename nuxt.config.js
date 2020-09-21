@@ -1,10 +1,11 @@
 require('dotenv').config()
-const { API_KEY, API_POSTS_ENDPOINT } = process.env;
+const { API_KEY, API_POSTS_ENDPOINT, API_CLUBS_ENDPOINT } = process.env;
 
 export default {
   privateRuntimeConfig: {
     apiKey: API_KEY,
     postsEndpoint: API_POSTS_ENDPOINT,
+    clubsEndpoint: API_CLUBS_ENDPOINT,
   },
   /*
    ** Nuxt rendering mode
