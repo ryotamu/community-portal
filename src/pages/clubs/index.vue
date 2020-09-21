@@ -40,13 +40,8 @@ export default {
       items: [],
     }
   },
-  methods: {
-    // formatDate(date: string): string {
-    //   return date.substr(0, 10);
-    // },
-  },
   async asyncData({ $config: { apiKey, clubsEndpoint } }: { $config: any }) {
-    const { data } = await axios.get(clubsEndpoint, {
+    const { data } = await axios.get(clubsEndpoint + '?limit=50', {
       headers: { 'X-API-KEY': apiKey },
     })
     return {
@@ -59,9 +54,5 @@ export default {
 <style>
 .post-title {
   color: #5f5f5f;
-}
-
-.post-sub-color {
-  color: #9a7b5c;
 }
 </style>

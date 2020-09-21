@@ -40,20 +40,11 @@ export default {
       item: {},
     }
   },
-  methods: {
-    formatDate(date: string): string {
-      return date.substr(0, 10)
-    },
-  },
 }
 </script>
 
 <style>
 .post-title {
   color: #5f5f5f;
-}
-
-.post-sub-color {
-  color: #9a7b5c;
 }
 </style>

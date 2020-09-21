@@ -29,7 +29,7 @@ export default {
     },
   },
   async asyncData({ $config: { apiKey, postsEndpoint } }: { $config: any }) {
-    const { data } = await axios.get(postsEndpoint, {
+    const { data } = await axios.get(postsEndpoint + '?limit=50', {
       headers: { 'X-API-KEY': apiKey },
     })
     return {

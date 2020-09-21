@@ -28,36 +28,10 @@
 </template>
 
 <script lang="ts">
-import axios from 'axios';
-
-export default {
-  data() {
-    return {
-      items: [],
-    }
-  },
-  methods: {
-    // formatDate(date: string): string {
-    //   return date.substr(0, 10);
-    // },
-  },
-  async asyncData({ $config: { apiKey, clubsEndpoint } }: { $config: any }) {
-    const { data } = await axios.get(clubsEndpoint, {
-      headers: { 'X-API-KEY': apiKey },
-    })
-    return {
-      items: data.contents,
-    }
-  },
-}
 </script>
 
 <style>
 .post-title {
   color: #5f5f5f;
-}
-
-.post-sub-color {
-  color: #9a7b5c;
 }
 </style>
