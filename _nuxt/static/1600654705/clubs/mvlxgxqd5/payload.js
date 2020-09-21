@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/mvlxgxqd5", (function(a){return {data:[{item:{id:"mvlxgxqd5",createdAt:a,updatedAt:a,publishedAt:a,name:"デュエマ部",introduction:"\u003Cp\u003E「デュエル・マスターズ」というカードゲームの、カードを紹介したり、オンラインでビデオチャットを繋ぎながらお友達と実際にバトルしたりするクラブです。\u2028パックを買ったら是非写真をあげてください！\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:51:29.954Z")));

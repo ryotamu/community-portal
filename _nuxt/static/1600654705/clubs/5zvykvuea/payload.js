@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/5zvykvuea", (function(a){return {data:[{item:{id:"5zvykvuea",createdAt:a,updatedAt:"2020-09-21T02:02:20.854Z",publishedAt:a,name:"フォートナイト部",introduction:"\u003Cp\u003Eみんなで協力バトルやアスレチックをしたり、お友達同士でさそいあって遊んだりできるクラブです！\u2028\u003Cbr\u003Eレベルなど画像も上げたりもします！\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:44:18.876Z")));
