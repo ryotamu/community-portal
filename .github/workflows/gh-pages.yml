@@ -30,6 +30,9 @@ jobs:
       - name: set api posts endpoint
         run: echo API_POSTS_ENDPOINT=${{ secrets.API_POSTS_ENDPOINT }} >> .env
 
+      - name: set api clubs endpoint
+        run: echo API_CLUBS_ENDPOINT=${{ secrets.API_CLUBS_ENDPOINT }} >> .env
+
       - name: install
         run: npm ci
 
