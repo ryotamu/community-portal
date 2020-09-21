@@ -33,6 +33,9 @@ jobs:
       - name: set api clubs endpoint
         run: echo API_CLUBS_ENDPOINT=${{ secrets.API_CLUBS_ENDPOINT }} >> .env
 
+      - name: set gtm id
+        run: echo GTM_ID=${{ secrets.GTM_ID }} >> .env
+
       - name: install
         run: npm ci
 
