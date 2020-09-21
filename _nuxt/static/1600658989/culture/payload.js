@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/culture", {data:[{}],fetch:[],mutations:void 0});

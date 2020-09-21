@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/6ebvwpjoj", (function(a){return {data:[{item:{id:"6ebvwpjoj",createdAt:a,updatedAt:"2020-09-21T02:00:10.715Z",publishedAt:a,name:"旅・散歩部",introduction:"\u003Cp\u003E大きな旅行、小さな散歩。 行ったことある場所、行ったことない場所。 などの写真あげたりする部活です。\u003C\u002Fp\u003E",chief:"たむら\u002Fたむたむ"}}],fetch:[],mutations:void 0}}("2020-09-21T01:57:42.338Z")));

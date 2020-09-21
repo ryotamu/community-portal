@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/exg3rlqxq", (function(a){return {data:[{item:{id:"exg3rlqxq",createdAt:a,updatedAt:"2020-09-21T02:00:05.320Z",publishedAt:a,name:"映画部",introduction:"\u003Cp\u003E好きな映画について紹介しあうクラブです。一緒にみんなで映画を観たりする会もできないか検討中です。\u003C\u002Fp\u003E",chief:"なかざと"}}],fetch:[],mutations:void 0}}("2020-09-21T01:54:26.023Z")));
