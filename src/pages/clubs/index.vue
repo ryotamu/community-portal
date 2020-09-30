@@ -1,6 +1,13 @@
 <template lang="pug">
   div
     b-list-group.mx-2.mb-2
+      nuxt-link(:to="'/events/'")
+        b-list-group-item.d-flex.post-title.font-weight-bold
+          | 直近のイベントカレンダー！
+          div(
+            style="margin-left: auto"
+          )
+            | ＞
       nuxt-link(:to="'/culture/'")
         b-list-group-item.d-flex.post-title.font-weight-bold
           | コミュニティはどんな場所？
