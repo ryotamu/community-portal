@@ -8,7 +8,7 @@
       p.post-sub-color
         i.far.fa-clock
         |{{ formatDate(item.updatedAt) }}
-      p ーーーーーーーー
+      div.border-bottom
       br
       p(
         v-html="item.body"
