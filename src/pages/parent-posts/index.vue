@@ -1,5 +1,16 @@
 <template lang="pug">
   div
+    b-list-group.mx-2.mb-2
+      nuxt-link(:to="'/parent-events/'")
+        b-list-group-item.d-flex.post-title.font-weight-bold
+          | 保護者イベントカレンダー！
+          div(
+            style="margin-left: auto"
+          )
+            | ＞
+
+    h2.ml-3.font-weight-bold
+      | 記事一覧
     div(v-for="item in items")
       b-card.m-2
         nuxt-link(:to="'/parent-posts/' + item.id + '/'")
@@ -15,7 +26,7 @@
 </template>
 
 <script lang="ts">
-import axios from 'axios';
+import axios from 'axios'
 
 export default {
   data() {
@@ -25,7 +36,7 @@ export default {
   },
   methods: {
     formatDate(date: string): string {
-      return date.substr(0, 10);
+      return date.substr(0, 10)
     },
   },
   async asyncData({ $config: { apiKey, postsEndpoint } }: { $config: any }) {
