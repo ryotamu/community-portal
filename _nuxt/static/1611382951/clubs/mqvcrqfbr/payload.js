@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/mqvcrqfbr", (function(a){return {data:[{item:{id:"mqvcrqfbr",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"among us（アモングアス）部",introduction:"\u003Cp\u003Eみんなでamong usをします！\u003Cbr\u003E英語版人狼ゲームみたいな感じです！\u003Cbr\u003E知らない子も興味あったら入ってね！！\u003C\u002Fp\u003E",chief:"わっきー、とあるイカくん"}}],fetch:[],mutations:void 0}}("2021-01-23T06:20:56.175Z")));
