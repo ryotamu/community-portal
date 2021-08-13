@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/tzulwn7mg", (function(a){return {data:[{item:{id:"tzulwn7mg",createdAt:a,updatedAt:"2020-09-21T03:15:14.553Z",publishedAt:a,name:"建築部",introduction:"\u003Cp\u003E好きな建物や建築家について話したり写真貼ったりする部活です。 是非みんなの好きな建築、建築家を教えて下さい！\u003C\u002Fp\u003E",chief:"なかざと"}}],fetch:[],mutations:void 0}}("2020-09-21T03:15:08.545Z")));
