@@ -3,7 +3,7 @@
     b-list-group.mx-2.mb-2
       nuxt-link(:to="'/parent-events/'")
         b-list-group-item.d-flex.post-title.font-weight-bold
-          | 保護者向けイベントのカレンダーはこちら！
+          | 保護者さん向けイベントのカレンダーはこちら！
           div(
             style="margin-left: auto"
           )
