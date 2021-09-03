@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/cgm6y14x8", (function(a){return {data:[{item:{id:"cgm6y14x8",createdAt:a,updatedAt:"2020-09-21T02:02:31.674Z",publishedAt:a,name:"アートクラフト部",introduction:"\u003Cp\u003E描いたり、作ったりするのが好きな子が、自分の作品の写真を見せ合ったり、好きな作品の話をしたりするクラブです。 今後は一緒に何か作ったりするイベントもやっていく予定です。\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:45:33.012Z")));

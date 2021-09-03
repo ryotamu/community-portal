@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/ed5wuks7o", (function(a){return {data:[{item:{id:"ed5wuks7o",createdAt:a,updatedAt:"2021-09-03T02:38:57.089Z",publishedAt:a,name:"音楽部",introduction:"\u003Cp\u003E好きな音楽を紹介したり、一緒に聴いたりするクラブです。\u003C\u002Fp\u003E",chief:"ゆっち"}}],fetch:[],mutations:void 0}}("2020-09-21T01:47:26.303Z")));
