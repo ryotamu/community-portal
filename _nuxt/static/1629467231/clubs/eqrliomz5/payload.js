@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/eqrliomz5", (function(a){return {data:[{item:{id:"eqrliomz5",createdAt:a,updatedAt:a,publishedAt:a,name:"ポケモン部",introduction:"\u003Cp\u003Eポケモンのゲームでバトルしたり、好きなポケモンの話をしたりするクラブです。 他にもカードゲームなどもあり、幅が広い活動が今後行われる予定です。\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:54:53.838Z")));

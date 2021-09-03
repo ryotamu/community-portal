@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/5eb8u4yua2s", (function(a){return {data:[{item:{id:"5eb8u4yua2s",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"YouTube部",introduction:"\u003Cp\u003Eおすすめの動画を紹介したり、動画作りについて情報交換をしたりしています。\u003C\u002Fp\u003E",chief:"ひーくん"}}],fetch:[],mutations:void 0}}("2021-09-03T01:59:52.776Z")));
