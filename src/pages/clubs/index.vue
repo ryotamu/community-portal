@@ -23,6 +23,8 @@
           )
             | ＞
 
+    iframe(width='290' height='160' src='https://www.youtube.com/embed/6a39r1EfttQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen)
+
     h2.ml-3.font-weight-bold
       | 部活一覧
     div(v-for="item in items")
@@ -39,7 +41,7 @@
 </template>
 
 <script lang="ts">
-import axios from 'axios';
+import axios from 'axios'
 
 export default {
   data() {
