@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/t_g3ehngytwe", (function(a){return {data:[{item:{id:"t_g3ehngytwe",createdAt:"2022-02-04T05:50:46.756Z",updatedAt:"2022-02-04T05:54:44.704Z",publishedAt:a,revisedAt:a,name:"オセロニア部",introduction:"\u003Cp\u003Eオセロニアのキャラクターや攻略について情報交換したり、進捗を報告したりして活動しています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-02-04T05:54:22.644Z")));
