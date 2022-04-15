@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/64gcsb3qh", (function(a){return {data:[{item:{id:"64gcsb3qh",createdAt:a,updatedAt:"2022-04-14T08:21:26.923Z",publishedAt:a,revisedAt:"2022-04-14T08:21:20.848Z",name:"にゃんこ大戦争部（活動度★☆☆）",introduction:"\u003Cp\u003Eすきなにゃんこをあげたり、画像をあげたり、にゃんこ大戦争について話す部活です！\u003C\u002Fp\u003E",chief:"レオルくん"}}],fetch:[],mutations:void 0}}("2020-09-21T02:12:04.455Z")));

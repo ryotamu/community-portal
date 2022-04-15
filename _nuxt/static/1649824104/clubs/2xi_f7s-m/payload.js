@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/2xi_f7s-m", (function(a){return {data:[{item:{id:"2xi_f7s-m",createdAt:a,updatedAt:"2020-09-21T02:01:21.733Z",publishedAt:a,name:"スマブラ部",introduction:"\u003Cp\u003E好きなファイターの話をしたり、オンライン上で集まってみんなでバトルしたりするクラブです。今後は上手な人に戦い方のコツなどをレクチャーしてもらう会なども開こうと思っています。\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:44:52.025Z")));

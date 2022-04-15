@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/4ov3_53zbprb", (function(a){return {data:[{item:{id:"4ov3_53zbprb",createdAt:"2022-02-04T05:50:31.186Z",updatedAt:"2022-02-04T05:54:33.030Z",publishedAt:a,revisedAt:a,name:"ポケモンユナイト部",introduction:"\u003Cp\u003Eポケモンユナイトを一緒にプレイしたり、情報交換をしたりして活動しています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-02-04T05:53:36.618Z")));

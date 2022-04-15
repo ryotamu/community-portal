@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/nooyvm_9p", (function(a){return {data:[{item:{id:"nooyvm_9p",createdAt:a,updatedAt:"2021-09-03T02:43:23.627Z",publishedAt:a,name:"生物部",introduction:"\u003Cp\u003E好きな生物の話をしたり、生き物に関係のあるオススメの博物館や図鑑、動画などを紹介しあったりするクラブです。\u003C\u002Fp\u003E",chief:"梅内さん "}}],fetch:[],mutations:void 0}}("2020-09-21T01:54:04.532Z")));

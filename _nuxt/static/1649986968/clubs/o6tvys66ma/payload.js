@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/o6tvys66ma", (function(a){return {data:[{item:{id:"o6tvys66ma",createdAt:a,updatedAt:"2022-04-14T13:02:04.065Z",publishedAt:a,revisedAt:"2022-04-14T08:09:57.085Z",name:"東方部（活動度★☆☆）",introduction:"\u003Cp\u003E東方シリーズのゲームについて、情報交換したり画像を投稿したりしています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-03-25T08:07:44.091Z")));

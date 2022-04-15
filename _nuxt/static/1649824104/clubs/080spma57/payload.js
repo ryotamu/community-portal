@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/080spma57", (function(a){return {data:[{item:{id:"080spma57",createdAt:a,updatedAt:"2022-03-25T08:12:47.682Z",publishedAt:a,revisedAt:"2022-03-25T08:12:23.132Z",name:"スプラトゥーン３",introduction:"\u003Cp\u003Eスプラトゥーン３についての情報交換をしたり、予想をしたりしています。\u003Cbr\u003E発売されたら、イベントも開催予定です！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-03-25T08:09:39.057Z")));

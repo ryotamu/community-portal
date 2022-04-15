@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/ryy_bgwyg", (function(a,b){return {data:[{item:{id:"ryy_bgwyg",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,name:"トランスフォーマー部（活動度☆☆☆）",introduction:"\u003Cp\u003Eトランスフォーマーに関するお話をしたり、動画を見たりするクラブです。\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:55:47.778Z","2022-04-14T07:59:58.112Z")));

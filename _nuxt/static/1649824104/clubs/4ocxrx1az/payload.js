@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/4ocxrx1az", (function(a,b){return {data:[{item:{id:"4ocxrx1az",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,name:"脱獄ごっこ部",introduction:"\u003Cp\u003E「脱獄ごっこ」というアプリゲームをオンライン上でみんなで遊んだり、プレイ画像を見せ合ってお話したりするクラブです。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2020-09-21T01:55:21.658Z","2022-04-11T02:44:40.393Z")));
