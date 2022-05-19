@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/9n4y-1u220-e", (function(a){return {data:[{item:{id:"9n4y-1u220-e",createdAt:a,updatedAt:"2022-05-18T09:31:17.679Z",publishedAt:a,revisedAt:a,name:"カービィ部（活動度★☆☆）",introduction:"\u003Cp\u003E星のカービィのゲームや漫画、YouTubeの小ネタ集などを紹介して活動する予定です。\u003Cbr\u003Eカービィの自作イラストなどの投稿も大歓迎です！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-05-18T09:23:18.270Z")));
