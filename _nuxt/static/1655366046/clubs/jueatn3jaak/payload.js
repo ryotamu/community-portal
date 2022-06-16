@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/jueatn3jaak", (function(a,b){return {data:[{item:{id:"jueatn3jaak",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,name:"世界の国（活動度★☆☆）",introduction:"\u003Cp\u003E世界の国のことを話したり、国旗クイズをする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-01-29T08:56:34.367Z","2022-06-16T06:44:22.770Z")));
