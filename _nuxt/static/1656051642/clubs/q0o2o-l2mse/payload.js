@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/q0o2o-l2mse", (function(a){return {data:[{item:{id:"q0o2o-l2mse",createdAt:a,updatedAt:"2022-06-24T05:56:18.571Z",publishedAt:a,revisedAt:a,name:"植物部（活動度★☆☆）",introduction:"\u003Cp\u003E植物の写真を投稿したり、おすすめの図鑑やサイトを紹介したりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-06-24T05:45:44.159Z")));
