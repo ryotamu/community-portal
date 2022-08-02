@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/5tzhwyl3w", (function(a){return {data:[{item:{id:"5tzhwyl3w",createdAt:a,updatedAt:"2022-04-14T10:04:45.248Z",publishedAt:a,revisedAt:"2022-04-14T09:56:29.024Z",name:"スプラトゥーン部（活動度★★☆）",introduction:"\u003Cp\u003E「スプラトゥーン」というゲームで、オンライン上で集まってみんなで一緒にバトルなどをするクラブです。\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:53:13.813Z")));

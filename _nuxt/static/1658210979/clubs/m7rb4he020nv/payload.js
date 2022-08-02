@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/m7rb4he020nv", (function(a){return {data:[{item:{id:"m7rb4he020nv",createdAt:a,updatedAt:"2022-06-24T05:42:27.005Z",publishedAt:a,revisedAt:"2022-06-24T05:41:42.999Z",name:"鉱物部（活動度★★☆）",introduction:"\u003Cp\u003E鉱物が好きな人が石を見せあったり、話したりする部活です。\u003Cbr\u003E興味があればok、質問するだけでもokです！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-06-16T06:38:16.974Z")));

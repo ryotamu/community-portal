@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/m67q8yljj8", (function(a){return {data:[{item:{id:"m67q8yljj8",createdAt:a,updatedAt:"2022-08-02T06:19:38.318Z",publishedAt:a,revisedAt:"2022-05-18T09:16:59.880Z",name:"ゼルダの伝説ブレスオブザワイルド部（活動度★★☆）",introduction:"\u003Cp\u003Eゲームの攻略の進捗を共有したり、情報交換をしたりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-04-14T07:37:49.462Z")));
