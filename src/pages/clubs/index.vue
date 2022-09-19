@@ -23,7 +23,7 @@
           )
             | ＞
     div.d-flex.justify-content-center.mb-2
-      iframe(width='290' height='160' src='https://youtu.be/CcW-wMKwL8g' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen)
+      iframe(width='290' height='160' src='https://www.youtube.com/embed/CcW-wMKwL8g' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen)
     div.d-flex.justify-content-center
       iframe(width='290' height='160' src='https://www.youtube.com/embed/6a39r1EfttQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen)
 
