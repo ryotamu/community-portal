@@ -3,7 +3,7 @@
     b-list-group.mx-2.mb-2
       nuxt-link(:to="'/events/'")
         b-list-group-item.d-flex.post-title.font-weight-bold
-          | 部活イベントカレンダー！!
+          | 部活イベントカレンダー！!！！
           div(
             style="margin-left: auto"
           )
