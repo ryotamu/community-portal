@@ -6,7 +6,7 @@
     div
       b-card
         h2.post-title.font-weight-bold
-          | コミュニティはどんな場所？
+          | オンラインフリースクールはどんな場所？
         p.post-title ①
         img.mx-auto(
           src="~/static/culture1.png"
@@ -31,10 +31,7 @@
         p 一覧 >
 
 </template>
-
-<script lang="ts">
-</script>
-
+<script lang="ts"></script>
 <style>
 .post-title {
   color: #5f5f5f;
