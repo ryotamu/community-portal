@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/zm_wfsv8d", (function(a){return {data:[{item:{id:"zm_wfsv8d",createdAt:a,updatedAt:"2022-09-21T02:05:19.493Z",publishedAt:a,revisedAt:"2022-09-21T02:00:19.660Z",name:"APEX部（活動度★★☆）",introduction:"\u003Cp\u003E「APEX　LEGENDS」というオンラインゲームをみんなで繋いでプレイしたりするクラブです。\u003C\u002Fp\u003E",chief:"なかざと"}}],fetch:[],mutations:void 0}}("2020-09-21T01:56:49.019Z")));
