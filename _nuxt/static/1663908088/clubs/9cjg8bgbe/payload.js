@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/9cjg8bgbe", (function(a){return {data:[{item:{id:"9cjg8bgbe",createdAt:a,updatedAt:"2022-08-02T06:30:05.154Z",publishedAt:a,revisedAt:"2022-08-02T06:18:55.383Z",name:"マリオメーカー部（活動度★☆☆）",introduction:"\u003Cp\u003E「マリオメーカー」というゲームでコースを作り、それを友達と紹介しあったりするクラブです。 \u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2020-09-21T01:46:20.496Z")));
