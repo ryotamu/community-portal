@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/gc421snxldts", (function(a){return {data:[{item:{id:"gc421snxldts",createdAt:a,updatedAt:"2022-11-19T07:39:29.038Z",publishedAt:a,revisedAt:a,name:"ポケモンカード部（活動度★☆☆）",introduction:"\u003Cp\u003Eポケモンカードについての情報交換をしたり、一緒にデッキを考えたり対戦相手を探したりする予定です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-11-19T07:31:37.637Z")));
