@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/hz3vbejly", (function(a){return {data:[{item:{id:"hz3vbejly",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"生きるについて考える部 [新部活]",introduction:"\u003Cp\u003Eみんなで生きることについて考え、つぶやいたり、質問したり、語ったりする場です！\u003Cbr\u003E心理学や哲学にからめてもいいし、自分なりの感覚や考え方を話してもいいですね～。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-01-25T09:08:39.139Z")));
