@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/mtdtdjvi_ag", (function(a){return {data:[{item:{id:"mtdtdjvi_ag",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"手芸部[新部活]",introduction:"\u003Cp\u003E作った物の写真を投稿したり、分からないところやおすすめの物の作り方を教え合ったりしています。\u003Cbr\u003E過去の作品でもOKです！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-12-19T05:23:07.410Z")));

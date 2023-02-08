@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/f3dyx848w", (function(a){return {data:[{item:{id:"f3dyx848w",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"写真部[新部活]",introduction:"\u003Cp\u003Eテーマは自由！\u003Cbr\u003E風景、花、生き物、鉱石、鉄道などなど...それぞれが撮った写真を投稿しています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-12-19T05:21:02.823Z")));

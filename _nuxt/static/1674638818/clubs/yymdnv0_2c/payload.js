@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/yymdnv0_2c", (function(a){return {data:[{item:{id:"yymdnv0_2c",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"マイクラリアルトレインmod部 [新部活]",introduction:"\u003Cp\u003Eマインクラフトのリアルトレインmodについて、好きな車両を紹介したり、画像をアップしたりしています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-01-25T09:15:40.887Z")));

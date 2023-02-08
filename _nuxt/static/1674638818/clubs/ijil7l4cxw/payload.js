@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/ijil7l4cxw", (function(a){return {data:[{item:{id:"ijil7l4cxw",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"ポケモンGO部[新部活]",introduction:"\u003Cp\u003EポケモンGOでフレンドになったり、ゲットしたポケモンを紹介したり、色違いについて情報交換したりしています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-12-19T05:22:00.453Z")));

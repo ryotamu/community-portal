@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/shzf0qojnvd", (function(a){return {data:[{item:{id:"shzf0qojnvd",createdAt:a,updatedAt:"2022-08-02T06:18:05.010Z",publishedAt:a,revisedAt:"2022-08-02T06:16:29.183Z",name:"ボードゲームカフェ部（活動度★★☆）",introduction:"\u003Cp\u003Eボードゲーム、カードゲーム、パズル、知育玩具などの情報交換をしています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-06-16T06:41:34.436Z")));

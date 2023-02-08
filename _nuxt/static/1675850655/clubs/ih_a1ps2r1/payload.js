@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/ih_a1ps2r1", (function(a){return {data:[{item:{id:"ih_a1ps2r1",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"かわいいもの部 [新部活]",introduction:"\u003Cp\u003Eお気に入りの「かわいいもの」の写真を投稿しています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-02-08T06:25:33.794Z")));

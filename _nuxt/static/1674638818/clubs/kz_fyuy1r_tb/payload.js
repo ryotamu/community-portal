@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/kz_fyuy1r_tb", (function(a,b){return {data:[{item:{id:"kz_fyuy1r_tb",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,name:"モデリングandデザイン部[新部活]",introduction:"\u003Cp\u003EBlenderなどのソフトを使った3Dモデリングやデザインの作品を紹介したり、作り方を相談し合ったりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-12-19T05:25:27.867Z","2022-12-19T05:25:40.813Z")));

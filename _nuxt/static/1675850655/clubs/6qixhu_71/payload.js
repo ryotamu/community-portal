@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/6qixhu_71", (function(a){return {data:[{item:{id:"6qixhu_71",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"Scratch部 [新部活]",introduction:"\u003Cp\u003EScratchで自分でつくった作品を紹介したり、好きな作品を教え合ったりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-02-08T06:22:39.255Z")));

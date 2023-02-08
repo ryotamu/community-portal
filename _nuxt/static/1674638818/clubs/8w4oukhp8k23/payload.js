@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/8w4oukhp8k23", (function(a){return {data:[{item:{id:"8w4oukhp8k23",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"特撮ヒーロー部[新部活]",introduction:"\u003Cp\u003E好きなヒーローやグッズを紹介していきます。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-12-19T05:24:04.569Z")));
