@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/41d3ke04v1", (function(a){return {data:[{item:{id:"41d3ke04v1",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"猫部 [新部活]",introduction:"\u003Cp\u003E猫の写真を投稿しています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-02-08T06:26:53.083Z")));

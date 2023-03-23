@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/y7dtz7nvcs", (function(a){return {data:[{item:{id:"y7dtz7nvcs",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"マインクラフトMOD\u002Fアドオン部 [新部活]",introduction:"\u003Cp\u003EマインクラフトのMODやアドオンの入れ方を質問したり、おすすめのものを紹介したりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-02-08T06:24:17.962Z")));

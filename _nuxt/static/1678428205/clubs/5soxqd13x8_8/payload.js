@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/5soxqd13x8_8", (function(a){return {data:[{item:{id:"5soxqd13x8_8",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"小5以上のマイクラ部 [新部活]",introduction:"\u003Cp\u003E年齢が近い子どうしでつながりたい、落ち着いたコミュニケーションをとりたい、という人におすすめです。\u003Cbr\u003E声を掛け合って一緒に遊んだりする予定です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-03-02T16:03:14.832Z")));
