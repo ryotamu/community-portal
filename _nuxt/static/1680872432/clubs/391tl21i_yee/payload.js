@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/391tl21i_yee", (function(a){return {data:[{item:{id:"391tl21i_yee",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"ディズニー部 [新部活]",introduction:"\u003Cp\u003E大好きなディズニーのことを語ったり、お気に入りグッズを紹介したりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-03T02:51:44.824Z")));
