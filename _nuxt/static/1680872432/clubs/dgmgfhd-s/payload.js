@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/dgmgfhd-s", (function(a){return {data:[{item:{id:"dgmgfhd-s",createdAt:a,updatedAt:"2023-02-08T06:41:43.233Z",publishedAt:a,revisedAt:"2022-04-14T08:16:22.543Z",name:"アニメ・マンガ部（活動度★★★）",introduction:"\u003Cp\u003E自分の好きなアニメを紹介したり、最新のアニメ情報などを共有したりするクラブです。\u003C\u002Fp\u003E",chief:"なかざと"}}],fetch:[],mutations:void 0}}("2020-09-21T01:50:47.562Z")));

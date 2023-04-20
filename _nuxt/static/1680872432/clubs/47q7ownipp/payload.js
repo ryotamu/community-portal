@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/47q7ownipp", (function(a){return {data:[{item:{id:"47q7ownipp",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"マイクラコマンド部 [新部活]",introduction:"\u003Cp\u003Eマインクラフトのコマンドについて、情報交換したり教え合ったりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-03-22T10:05:49.237Z")));
