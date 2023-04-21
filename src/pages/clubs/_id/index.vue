@@ -28,12 +28,9 @@ export default {
     $config: any
     params: any
   }) {
-    const { data } = await axios.get(
-      `${clubsEndpoint}/${params.id}?limit=1000`,
-      {
-        headers: { 'X-API-KEY': apiKey },
-      }
-    )
+    const { data } = await axios.get(`${clubsEndpoint}/${params.id}`, {
+      headers: { 'X-API-KEY': apiKey },
+    })
     return {
       item: data,
     }

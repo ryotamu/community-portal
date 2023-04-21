@@ -52,7 +52,7 @@ export default {
     }
   },
   async asyncData({ $config: { apiKey, clubsEndpoint } }: { $config: any }) {
-    const { data } = await axios.get(clubsEndpoint + '?limit=50', {
+    const { data } = await axios.get(clubsEndpoint + '?limit=1000', {
       headers: { 'X-API-KEY': apiKey },
     })
     return {
