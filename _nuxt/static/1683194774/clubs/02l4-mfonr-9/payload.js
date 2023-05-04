@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/02l4-mfonr-9", (function(a){return {data:[{item:{id:"02l4-mfonr-9",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"ラップバトル部 [新部活]",introduction:"\u003Cp\u003E好きなラッパーや曲の話をしたりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-03T08:59:51.882Z")));

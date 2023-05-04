@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/x-nb8z1d1oy", (function(a){return {data:[{item:{id:"x-nb8z1d1oy",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"Dr.チョコレート部 [新部活]",introduction:"\u003Cp\u003E「Dr.チョコレート」という、テレビドラマについて語り合う部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-26T08:04:14.068Z")));

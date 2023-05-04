@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/i4-231sik", (function(a){return {data:[{item:{id:"i4-231sik",createdAt:a,updatedAt:"2023-05-04T01:32:27.136Z",publishedAt:a,revisedAt:a,name:"Minecraft建築部 [新部活]",introduction:"\u003Cp\u003Eドーマーや屋根の作り方、好きなデザインの装飾などを話していきます。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-03T08:58:16.154Z")));

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/w96gth4q1", (function(a){return {data:[{item:{id:"w96gth4q1",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"コナン部 [新部活]",introduction:"\u003Cp\u003E名探偵コナンについて語り合う部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-25T08:09:22.779Z")));

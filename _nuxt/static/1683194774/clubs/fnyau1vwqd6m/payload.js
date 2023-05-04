@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/fnyau1vwqd6m", (function(a){return {data:[{item:{id:"fnyau1vwqd6m",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"動画編集部 [新部活]",introduction:"\u003Cp\u003E自分で作った編集動画を投稿したり動画編集サイトやアプリを話し合ったりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-03T09:00:31.509Z")));
