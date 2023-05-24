@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/3ipakyuos", (function(a){return {data:[{item:{id:"3ipakyuos",createdAt:a,updatedAt:"2023-04-18T06:54:15.008Z",publishedAt:a,revisedAt:a,name:"古生物・恐竜部（活動度★☆☆）",introduction:"\u003Cp\u003E古生物の話をしたり、化石の写真を見せ合ったりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-08-02T06:32:40.003Z")));

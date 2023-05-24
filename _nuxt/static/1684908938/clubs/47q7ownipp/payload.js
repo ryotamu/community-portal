@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/47q7ownipp", (function(a){return {data:[{item:{id:"47q7ownipp",createdAt:a,updatedAt:"2023-05-24T06:02:27.492Z",publishedAt:a,revisedAt:"2023-04-18T06:51:26.474Z",name:"マイクラコマンド部（活動度★★☆）",introduction:"\u003Cp\u003Eマインクラフトのコマンドについて、情報交換したり教え合ったりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-03-22T10:05:49.237Z")));

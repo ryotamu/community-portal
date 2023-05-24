@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/5eb8u4yua2s", (function(a){return {data:[{item:{id:"5eb8u4yua2s",createdAt:a,updatedAt:"2023-05-04T01:21:03.134Z",publishedAt:a,revisedAt:"2022-04-14T08:23:30.403Z",name:"YouTube部（活動度★★☆）",introduction:"\u003Cp\u003Eおすすめの動画を紹介したり、動画作りについて情報交換をしたりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2021-09-03T01:59:52.776Z")));

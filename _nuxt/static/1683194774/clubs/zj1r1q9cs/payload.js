@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/zj1r1q9cs", (function(a){return {data:[{item:{id:"zj1r1q9cs",createdAt:a,updatedAt:"2023-02-08T06:47:09.002Z",publishedAt:a,revisedAt:"2023-02-08T06:34:41.324Z",name:"雑学・豆知識部（活動度★★☆）",introduction:"\u003Cp\u003E雑学や豆知識を紹介し合います。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-11-19T07:32:58.850Z")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/qwarp9uvs1j", (function(a){return {data:[{item:{id:"qwarp9uvs1j",createdAt:a,updatedAt:"2023-05-24T06:03:07.914Z",publishedAt:a,revisedAt:"2023-05-24T05:58:13.645Z",name:"ホラーゲーム部（活動度★★☆）",introduction:"\u003Cp\u003E好きなホラーゲームについて話したり、画像をアップしたりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-03T08:59:06.206Z")));
