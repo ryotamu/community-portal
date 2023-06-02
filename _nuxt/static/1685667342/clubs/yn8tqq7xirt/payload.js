@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/yn8tqq7xirt", (function(a){return {data:[{item:{id:"yn8tqq7xirt",createdAt:a,updatedAt:"2023-06-01T09:47:05.910Z",publishedAt:a,revisedAt:a,name:"面白部 [新部活]",introduction:"\u003Cp\u003E面白いものを投稿したり面白いことを話す部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:41:46.396Z")));

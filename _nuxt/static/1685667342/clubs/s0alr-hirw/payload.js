@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/s0alr-hirw", (function(a){return {data:[{item:{id:"s0alr-hirw",createdAt:a,updatedAt:"2023-06-01T09:52:17.168Z",publishedAt:a,revisedAt:"2023-06-01T09:30:18.031Z",name:"ぷよぷよテトリス部（活動度★☆☆）",introduction:"\u003Cp\u003Eぷよぷよやテトリスの話をしたり、一緒に遊んだりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-24T06:05:40.478Z")));

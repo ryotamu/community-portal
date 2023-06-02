@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/6wz9hvf6yu", (function(a){return {data:[{item:{id:"6wz9hvf6yu",createdAt:a,updatedAt:"2023-06-01T09:54:18.237Z",publishedAt:a,revisedAt:"2023-06-01T09:29:49.821Z",name:"気象部（活動度★★☆）",introduction:"\u003Cp\u003E地震、台風などの気象現象について話しましょう！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-24T06:07:10.438Z")));

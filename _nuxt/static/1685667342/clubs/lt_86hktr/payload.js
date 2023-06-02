@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/lt_86hktr", (function(a){return {data:[{item:{id:"lt_86hktr",createdAt:a,updatedAt:"2023-06-01T09:47:00.411Z",publishedAt:a,revisedAt:a,name:"マイクラアスレチック部 [新部活]",introduction:"\u003Cp\u003Eマインクラフトの中で、アスレチックを作って紹介しあったりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:38:55.999Z")));

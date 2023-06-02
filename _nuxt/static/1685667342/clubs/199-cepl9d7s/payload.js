@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/199-cepl9d7s", (function(a){return {data:[{item:{id:"199-cepl9d7s",createdAt:a,updatedAt:"2023-06-01T09:47:03.420Z",publishedAt:a,revisedAt:"2023-06-01T09:38:07.057Z",name:"ハリーポッター部 [新部活]",introduction:"\u003Cp\u003Eハリーポッターの映画やゲームのことなどを話す部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:37:33.541Z")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/02l4-mfonr-9", (function(a){return {data:[{item:{id:"02l4-mfonr-9",createdAt:a,updatedAt:"2023-05-24T06:01:12.391Z",publishedAt:a,revisedAt:"2023-05-24T05:58:03.792Z",name:"ラップバトル部（活動度★★☆）",introduction:"\u003Cp\u003E好きなラッパーや曲の話をしたりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-03T08:59:51.882Z")));

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/kldvgorov", (function(a){return {data:[{item:{id:"kldvgorov",createdAt:a,updatedAt:"2023-03-22T09:49:08.247Z",publishedAt:a,revisedAt:"2023-03-22T09:45:33.454Z",name:"犬部（★★★）",introduction:"\u003Cp\u003E犬の写真を投稿しています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-02-08T06:26:25.430Z")));

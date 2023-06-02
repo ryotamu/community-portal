@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/e1eq1a6-hp_j", (function(a){return {data:[{item:{id:"e1eq1a6-hp_j",createdAt:a,updatedAt:"2023-03-22T09:58:07.581Z",publishedAt:a,revisedAt:"2022-11-19T07:38:03.774Z",name:"算数・数学部（活動度★★☆）",introduction:"\u003Cp\u003Eみんなで問題出し合ったり、面白かった問題書いたり、図形について話したりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-10-26T05:40:39.903Z")));

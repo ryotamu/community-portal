@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/vefwbe278kv", (function(a){return {data:[{item:{id:"vefwbe278kv",createdAt:a,updatedAt:"2023-05-04T01:21:35.167Z",publishedAt:a,revisedAt:"2023-04-18T06:47:53.023Z",name:"流行りのもの部（活動度★★☆）",introduction:"\u003Cp\u003E今流行ってるものを語ったり、流行りのものの画像を投稿する部活です！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-03T02:45:07.461Z")));

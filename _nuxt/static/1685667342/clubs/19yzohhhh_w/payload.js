@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/19yzohhhh_w", (function(a){return {data:[{item:{id:"19yzohhhh_w",createdAt:a,updatedAt:"2023-06-01T09:47:15.176Z",publishedAt:a,revisedAt:a,name:"ピアノ部 [新部活]",introduction:"\u003Cp\u003Eピアノについてお話したり、演奏動画を投稿したりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:44:54.842Z")));
