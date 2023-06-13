@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/ss9qksw0wk5", (function(a){return {data:[{item:{id:"ss9qksw0wk5",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"マインクラフトアドオン、MOD、配布ワールド、プラグイン作成部 [新部活]",introduction:"\u003Cp\u003Eマインクラフトのアドオン・MOD・配布ワールド・プラグインなどを作りたい人が、相談をしたり情報交換する部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:40:03.694Z")));

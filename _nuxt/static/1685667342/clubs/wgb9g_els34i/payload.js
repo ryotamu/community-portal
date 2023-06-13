@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/wgb9g_els34i", (function(a){return {data:[{item:{id:"wgb9g_els34i",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"スプラ練習部 [新部活]",introduction:"\u003Cp\u003E集まれる人で練習したり、バグ技を試したり、観戦の人にアドバイスをもらったり、写真を撮りたい人は撮ったりして活動する予定です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:46:37.894Z")));

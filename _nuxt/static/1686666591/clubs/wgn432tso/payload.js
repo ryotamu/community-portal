@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/wgn432tso", (function(a){return {data:[{item:{id:"wgn432tso",createdAt:a,updatedAt:"2023-06-13T06:51:23.922Z",publishedAt:a,revisedAt:"2023-05-03T08:54:23.290Z",name:"PCゲーム部（活動度★★☆）",introduction:"\u003Cp\u003EPCのいろんなゲームを紹介します。フレンドになって一緒に遊んだりもします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-25T08:08:45.945Z")));
