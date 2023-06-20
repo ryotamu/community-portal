@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/j1-zpq5_m", (function(a){return {data:[{item:{id:"j1-zpq5_m",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"プロゲーマーについて語り合う部 [新部活]",introduction:"\u003Cp\u003E好きなプロゲーマーのことを話したり、おすすめの動画を紹介したりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-20T08:17:57.427Z")));

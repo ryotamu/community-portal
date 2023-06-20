@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/h9wupx_glvy", (function(a){return {data:[{item:{id:"h9wupx_glvy",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"カレンダー作る部 [新部活]",introduction:"\u003Cp\u003E絵でカレンダー作ってそれを投稿したりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-13T07:01:03.971Z")));

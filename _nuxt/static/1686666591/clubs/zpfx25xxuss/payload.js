@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/zpfx25xxuss", (function(a){return {data:[{item:{id:"zpfx25xxuss",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"マリオ部 [新部活]",introduction:"\u003Cp\u003Eマリオの話をしたり、裏技や写真を投稿したりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-13T07:05:49.628Z")));
