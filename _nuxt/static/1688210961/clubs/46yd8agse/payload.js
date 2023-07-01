@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/46yd8agse", (function(a){return {data:[{item:{id:"46yd8agse",createdAt:a,updatedAt:"2023-06-20T08:13:09.474Z",publishedAt:a,revisedAt:"2023-06-20T08:09:20.413Z",name:"タダサバイバー（活動度★☆☆）",introduction:"\u003Cp\u003Eタダサバイバーという無料ゲームで遊んだり情報交換をしたりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-13T07:02:48.289Z")));
