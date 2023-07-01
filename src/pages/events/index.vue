@@ -5,21 +5,23 @@
         <p>一覧 ></p>
       </nuxt-link>
     </div>
-    <b-card class="mx-2" style="height: 1500px;">
-      <h2 class="post-title font-weight-bold mb-2">イベントカレンダー</h2>
+    <b-card class="mx-2">
+      <h2 class="post-title font-weight-bold mb-2">イベント機能の使い方</h2>
       <p>
-        ※Safariブラウザの場合カレンダーが上手く表示されない場合があります。その場合はGoogleChrome等別のブラウザでご確認ください。
+        （１）Discordのメニューのいちばん上にあるイベントのところをタップ！
       </p>
-      <div class="d-flex justify-content-center" style="height: 1200px;">
-        <iframe
-          src="https://calendar.google.com/calendar/embed?height=900&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FTokyo&amp;src=Y185cGFsMjZzYzRoZ3JkbjJnYm10YzNqOWdzZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23EF6C00&amp;showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showDate=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA"
-          style="border-width: 0;"
-          width="600"
-          height="900"
-          frameborder="0"
-          scrolling="no"
-        ></iframe>
-      </div>
+      <img class="mx-auto" src="~/static/event1.png" style="height:300px">
+      <p>
+        （２）スクロールして、気になるイベントは「興味あり」をおしてね！
+      </p>
+      <img class="mx-auto" src="~/static/event2.png" style="height:300px">
+      <p>
+        （３）イベントがはじまる時に通知がきます！
+      </p>
+      <img class="mx-auto" src="~/static/event3.png" style="height:300px">
+      <p>
+        （４）時間になったら、集合場所(⁠イベント部屋1 など)のボイスチャンネルに入ってね！
+      </p>
     </b-card>
     <div class="ml-3">
       <nuxt-link :to="'/clubs/'">
