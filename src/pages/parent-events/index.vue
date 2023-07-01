@@ -7,22 +7,24 @@
     </div>
     <b-card class="mx-2">
       <h2 class="post-title font-weight-bold mb-2">Discordでイベントを確認しよう！</h2>
-      <p></p>
       <p>
         （１）Discordのメニューのいちばん上にあるイベントのところをタップ！
       </p>
       <img class="mx-auto" src="~/static/event1.png" style="height:300px">
-      <p></p>
+      <p>ーーーーー</p>
+      <p>　</p>
       <p>
         （２）スクロールして、気になるイベントは「興味あり」をおしてね！
       </p>
       <img class="mx-auto" src="~/static/event2.png" style="height:300px">
-      <p></p>
+      <p>ーーーーー</p>
+      <p>　</p>
       <p>
         （３）イベントがはじまる時に通知がきます！
       </p>
       <img class="mx-auto" src="~/static/event3.png" style="height:300px">
-      <p></p>
+      <p>ーーーーー</p>
+      <p>　</p>
       <p>
         （４）時間になったら、集合場所(⁠イベント部屋1 など)のボイスチャンネルに入ってね！
       </p>
