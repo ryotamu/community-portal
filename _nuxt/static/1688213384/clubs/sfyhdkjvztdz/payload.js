@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/sfyhdkjvztdz", (function(a){return {data:[{item:{id:"sfyhdkjvztdz",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"推しの子部 [新部活]",introduction:"\u003Cp\u003Eアニメ「推しの子」の話をしたり、描いた絵を見せ合ったりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-20T08:15:24.923Z")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/lzo12yvhn6f6", (function(a){return {data:[{item:{id:"lzo12yvhn6f6",createdAt:a,updatedAt:"2023-07-04T06:44:33.546Z",publishedAt:a,revisedAt:"2023-07-04T06:34:32.919Z",name:"動物部（活動度★☆☆）",introduction:"\u003Cp\u003E動物のかわいいところついて話したり、写真を投稿したりする部活です！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-20T08:18:49.985Z")));

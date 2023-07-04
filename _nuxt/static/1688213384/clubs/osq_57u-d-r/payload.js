@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/osq_57u-d-r", (function(a){return {data:[{item:{id:"osq_57u-d-r",createdAt:a,updatedAt:"2023-06-20T08:13:06.824Z",publishedAt:a,revisedAt:"2023-06-20T08:10:08.315Z",name:"縛りスプラ部（活動度★☆☆）",introduction:"\u003Cp\u003Eスプラの試合で縛りルールを決めて一緒に遊びます。\u003Cbr\u003E（例：武器やギアの縛りなど）\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-13T07:04:57.025Z")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/l6dr4aoj3n", (function(a){return {data:[{item:{id:"l6dr4aoj3n",createdAt:a,updatedAt:"2023-07-04T06:38:00.302Z",publishedAt:a,revisedAt:"2023-06-13T06:40:57.534Z",name:"ペーパークラフト部（活動度★★☆）",introduction:"\u003Cp\u003Eペーパークラフトのオススメや、写真を投稿する部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:44:03.374Z")));

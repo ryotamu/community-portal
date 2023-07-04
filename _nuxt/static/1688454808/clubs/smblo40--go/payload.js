@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/smblo40--go", (function(a){return {data:[{item:{id:"smblo40--go",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"友だち増やし部 [新部活]",introduction:"\u003Cp\u003E募集して友だち(フレンド)を増やしたりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-04T06:56:43.975Z")));
