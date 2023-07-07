@@ -8,7 +8,7 @@
     <b-card class="mx-2">
       <h2 class="post-title font-weight-bold mb-2">Discordでイベントを確認しよう！</h2>
       <p>
-        （１）Discordのメニューのいちばん上にあるイベントのところをタップ！
+        （１）Discordのメニューのいちばん上にあるイベントをタップ！
       </p>
       <img class="mx-auto" src="~/static/event1.png" style="height:300px">
       <p>ーーーーー</p>
