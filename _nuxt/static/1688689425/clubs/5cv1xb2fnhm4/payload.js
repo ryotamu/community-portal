@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/5cv1xb2fnhm4", (function(a){return {data:[{item:{id:"5cv1xb2fnhm4",createdAt:a,updatedAt:"2023-07-05T06:22:47.248Z",publishedAt:a,revisedAt:a,name:"褒め部！ （活動度★★★）",introduction:"\u003Cp\u003E褒められたいときに自慢して、褒め合う部活です！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-05T06:09:22.244Z")));

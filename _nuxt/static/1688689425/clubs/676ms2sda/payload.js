@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/676ms2sda", (function(a){return {data:[{item:{id:"676ms2sda",createdAt:a,updatedAt:"2023-07-05T06:28:31.320Z",publishedAt:a,revisedAt:"2023-07-05T06:22:27.448Z",name:"絵文字部（活動度★☆☆）",introduction:"\u003Cp\u003E自分で描いた絵文字を投稿したりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-04T06:55:44.656Z")));

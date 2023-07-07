@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/enrxga6q5mff", (function(a){return {data:[{item:{id:"enrxga6q5mff",createdAt:a,updatedAt:"2023-07-04T06:44:12.379Z",publishedAt:a,revisedAt:"2023-05-03T08:53:48.243Z",name:"マインクラフトダンジョン部（活動度★☆☆）",introduction:"\u003Cp\u003Eマインクラフトダンジョンというゲームで、一緒にあそぶお友達をみつけたりします。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-25T08:07:36.956Z")));

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/ivzp4m0-3", (function(a){return {data:[{item:{id:"ivzp4m0-3",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"ニンジャラ部 [新部活]",introduction:"\u003Cp\u003Eニンジャラというゲームで対戦したり遊んだりします。\u003Cbr\u003ENintendo Switchのゲームで基本無料でプレイできます。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-04T06:55:07.503Z")));

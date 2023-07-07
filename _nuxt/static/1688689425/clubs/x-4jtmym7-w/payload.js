@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/x-4jtmym7-w", (function(a){return {data:[{item:{id:"x-4jtmym7-w",createdAt:a,updatedAt:"2023-07-05T06:14:55.744Z",publishedAt:a,revisedAt:a,name:"テラテック部 （活動度★★☆）",introduction:"\u003Cp\u003Eテラテックというゲームでマルチでみんなで遊んだり自分で作ったテックを見せ合ったりする部活です！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-05T06:08:40.716Z")));

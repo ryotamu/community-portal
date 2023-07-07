@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/clubs/k6m55evhpf", (function(a){return {data:[{item:{id:"k6m55evhpf",createdAt:a,updatedAt:"2023-06-01T09:51:33.319Z",publishedAt:a,revisedAt:"2022-10-26T05:43:27.426Z",name:"ドラえもん部（活動度★★☆）",introduction:"\u003Cp\u003Eお気に入りグッズの紹介や、好きなドラえもんの映画や秘密道具などの話をしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-10-05T05:07:10.303Z")));
