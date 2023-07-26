@@ -5,7 +5,6 @@
         p 一覧 >
     b-card.bg-white.mx-2.post-title
       h2.font-weight-bold {{ item.name }}
-      p 部長 | {{item.chief}}
       div.border-bottom
       br
       h3.font-weight-bold 部活紹介
