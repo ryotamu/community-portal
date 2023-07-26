@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/m67q8yljj8", (function(a){return {data:[{item:{id:"m67q8yljj8",createdAt:"2022-04-14T07:37:49.462Z",updatedAt:"2023-05-04T01:24:23.621Z",publishedAt:a,revisedAt:a,name:"ゼルダの伝説部（活動度★★☆）",introduction:"\u003Cp\u003Eゲームの攻略の進捗を共有したり、情報交換をしたりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-05-04T01:19:43.197Z")));

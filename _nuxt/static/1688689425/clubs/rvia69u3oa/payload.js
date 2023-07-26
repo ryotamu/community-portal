@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/rvia69u3oa", (function(a){return {data:[{item:{id:"rvia69u3oa",createdAt:a,updatedAt:"2023-07-05T06:13:16.626Z",publishedAt:a,revisedAt:a,name:"妖怪ウォッチぷにぷに部（活動度★☆☆）",introduction:"\u003Cp\u003Eみんなの画面を見せ合ったり、タイムアタックなどをする予定です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-05T06:10:34.212Z")));

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/tgy31gk_l8fc", (function(a){return {data:[{item:{id:"tgy31gk_l8fc",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"フォートナイトバトルロイヤル部 [新部活]",introduction:"\u003Cp\u003Eバトルロイヤルのコツや、どこに何があるなどを話す部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-05T06:32:44.311Z")));

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/qnuidj3z60q0", (function(a){return {data:[{item:{id:"qnuidj3z60q0",createdAt:a,updatedAt:"2023-07-05T06:33:43.234Z",publishedAt:a,revisedAt:a,name:"マイクラ配布ワールド&スキン部 [新部活]",introduction:"\u003Cp\u003Eオススメの配布ワールドやスキンを紹介する部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-05T06:31:59.342Z")));

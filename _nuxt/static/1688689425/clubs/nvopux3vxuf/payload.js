@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/nvopux3vxuf", (function(a){return {data:[{item:{id:"nvopux3vxuf",createdAt:a,updatedAt:"2023-05-04T01:22:22.810Z",publishedAt:a,revisedAt:"2022-04-14T08:09:03.230Z",name:"グルメ部（活動度★★★）",introduction:"\u003Cp\u003E食べたもの、作ったものなどの写真や情報を投稿しています！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2022-03-25T08:10:43.896Z")));

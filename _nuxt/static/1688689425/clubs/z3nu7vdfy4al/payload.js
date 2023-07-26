@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/z3nu7vdfy4al", (function(a){return {data:[{item:{id:"z3nu7vdfy4al",createdAt:a,updatedAt:"2023-06-13T06:51:03.990Z",publishedAt:a,revisedAt:"2023-06-13T06:40:37.258Z",name:"演劇・ミュージカル部（活動度★★☆）",introduction:"\u003Cp\u003Eみんなでミュージカルなどの話や、紹介をする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-01T09:43:11.123Z")));

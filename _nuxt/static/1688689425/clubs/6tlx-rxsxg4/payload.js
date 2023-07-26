@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/6tlx-rxsxg4", (function(a,b){return {data:[{item:{id:"6tlx-rxsxg4",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,name:"マイクラpvp部（活動度★★☆）",introduction:"\u003Cp\u003EマインクラフトのPVPワールドを作ったり、一緒に遊んだりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-07T01:14:43.239Z","2023-07-04T06:40:16.622Z")));

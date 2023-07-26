@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/mn-a1atz90n", (function(a){return {data:[{item:{id:"mn-a1atz90n",createdAt:a,updatedAt:"2023-05-04T01:25:39.948Z",publishedAt:a,revisedAt:"2023-03-22T09:44:44.510Z",name:"AI部（活動度★★☆）",introduction:"\u003Cp\u003EAI（人工知能）について、情報交換したり、質問・相談し合ったりしています。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-02-08T06:20:54.340Z")));

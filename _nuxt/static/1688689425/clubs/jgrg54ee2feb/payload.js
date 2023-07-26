@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/jgrg54ee2feb", (function(a){return {data:[{item:{id:"jgrg54ee2feb",createdAt:a,updatedAt:"2023-07-05T06:26:09.145Z",publishedAt:a,revisedAt:"2023-04-18T07:06:54.235Z",name:"デジタルイラスト部（活動度★★★）",introduction:"\u003Cp\u003Eタブレットやパソコンなどで描いたデジタルイラストを紹介し合う部活です！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-03T02:51:05.634Z")));

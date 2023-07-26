@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/1kzhrblim", (function(a){return {data:[{item:{id:"1kzhrblim",createdAt:"2020-09-21T01:56:13.930Z",updatedAt:"2023-07-04T06:41:12.413Z",publishedAt:a,revisedAt:a,name:"運動部（活動度★★☆）",introduction:"\u003Cp\u003E自分の好きな運動の話をしたり、室内でできる運動をみんなでやってみたりするクラブです。\u003C\u002Fp\u003E",chief:"わっきー"}}],fetch:[],mutations:void 0}}("2023-06-13T06:43:38.704Z")));

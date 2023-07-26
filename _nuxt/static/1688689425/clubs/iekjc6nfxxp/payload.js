@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/iekjc6nfxxp", (function(a){return {data:[{item:{id:"iekjc6nfxxp",createdAt:a,updatedAt:a,publishedAt:a,revisedAt:a,name:"好きな物・推し活部 [新部活]",introduction:"\u003Cp\u003Eみんなの好きな人（活動者）とか推し（サボテンとか物でも◯）を語り合ったり、同じ物が好きな人と交流したりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-05T06:33:38.562Z")));

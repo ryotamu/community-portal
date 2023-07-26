@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/7s7dn6g3wi", (function(a){return {data:[{item:{id:"7s7dn6g3wi",createdAt:a,updatedAt:"2023-06-20T08:12:22.049Z",publishedAt:a,revisedAt:"2023-06-20T08:12:05.029Z",name:"料理部（活動度★★★）",introduction:"\u003Cp\u003E自分の作った料理とかお菓子とか自分の食べるご飯とか写真撮ってアップする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-06-13T07:06:42.195Z")));

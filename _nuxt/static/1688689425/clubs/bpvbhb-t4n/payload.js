@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/bpvbhb-t4n", (function(a){return {data:[{item:{id:"bpvbhb-t4n",createdAt:a,updatedAt:"2023-07-05T06:13:09.893Z",publishedAt:a,revisedAt:a,name:"マイクラレッドストーン部 （活動度★☆☆）",introduction:"\u003Cp\u003Eレッドストーンで作った回路を見せたりする部活です。\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-07-05T06:06:55.619Z")));

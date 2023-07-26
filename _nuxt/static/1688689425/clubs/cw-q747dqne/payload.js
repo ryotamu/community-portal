@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/cw-q747dqne", (function(a){return {data:[{item:{id:"cw-q747dqne",createdAt:a,updatedAt:"2023-04-25T08:06:08.275Z",publishedAt:a,revisedAt:"2023-04-25T08:05:26.479Z",name:"勉強部（活動度★★☆）",introduction:"\u003Cp\u003E自分の今日やった勉強や勉強のコツ、モチベーションアップの方法などを共有します！\u003C\u002Fp\u003E"}}],fetch:[],mutations:void 0}}("2023-04-18T06:46:15.070Z")));
