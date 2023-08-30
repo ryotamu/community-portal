@@ -7,7 +7,7 @@
       h2.font-weight-bold {{ item.name }}
       div.border-bottom
       br
-      h3.font-weight-bold 部活紹介
+      h3.font-weight-bold 部活紹介！
       p(
         v-html="item.introduction"
       )
