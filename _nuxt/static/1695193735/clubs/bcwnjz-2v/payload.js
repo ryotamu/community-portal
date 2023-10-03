@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/clubs/bcwnjz-2v", (function(a,b){return {data:[{item:{id:"bcwnjz-2v",createdAt:a,updatedAt:b,publishedAt:a,revisedAt:b,name:"鉄道部",introduction:"\u003Cp\u003E鉄道の話をしたり、写真や動画を見せ合ったりするクラブです！\u003Cbr\u003E好きな電車について話すオンライントーク会なども開いています。\u003C\u002Fp\u003E",chief:"わっきーと、みんな"}}],fetch:[],mutations:void 0}}("2021-01-23T06:18:24.420Z","2023-07-26T04:19:40.251Z")));
